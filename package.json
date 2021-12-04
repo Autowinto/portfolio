@@ -1,0 +1,8 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Autowinto/portfolio.git",
+  "author": "Magnus Christian Larsen <macl@itconfidence.dk>",
+  "license": "MIT"
+}
